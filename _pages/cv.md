@@ -21,9 +21,9 @@ You can also find my CV [here](https://jiandabi.github.io/files/cv.pdf).
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in Finance, University of Nottingham Ningbo China, 2025
+* M.S. in Finance, Fordham University, 2018
+* B.S. in Economics, Wenzhou-Kean University, 2016
 
 Work experience
 ======
