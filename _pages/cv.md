@@ -14,7 +14,7 @@ redirect_from:
 
 {% include base_path %}
 
-  <div class="wordwrap">You can also find my  on <a href="{Jianda_bi_s_cv  ENG 202410.pdf}">CV</a>.</div>
+  <div class="wordwrap">You can also find my  on <a href="{% Jianda_bi_s_cv  ENG 202410.pdf %}">CV</a>.</div>
  
 
 Education
