@@ -4,7 +4,7 @@ collection: teaching
 type: "Graduate course"
 permalink: /teaching/2022-spring-teaching-1
 venue: "The University of Nottingham Ningbo China, Nottingham University Business School China"
-date: 2022 ~ 2024 
+date: 2022~2024 
 location: "Ningbo, China"
 ---
 
