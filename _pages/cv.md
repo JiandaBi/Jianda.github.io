@@ -35,7 +35,7 @@ Work experience
 
 Skills
 ======
-* Python, Stata, Matlab,  \LaTeX,   $\LaTeX$, R, SQL,  C++, Mathematica   
+* Python, Stata, Matlab, R, SQL, C++, Mathematica   
  
 Publications
 ======
