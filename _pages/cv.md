@@ -15,9 +15,9 @@ redirect_from:
 {% include base_path %}
 
 
- You can also find my on  CV  {% include /files/cv.pdf %} 
+
  
-You can also find my CV [here]({{ https://jiandabi.github.io }}/files/cv.pdf).
+You can also find my CV [here]({ https://jiandabi.github.io/files/cv.pdf }).
 
 Education
 ======
