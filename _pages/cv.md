@@ -14,8 +14,9 @@ redirect_from:
 
 {% include base_path %}
 
-You can also find my on <a href="{Jianda_bi_s_cv  ENG 202410.pdf}">CV</a>
  
+
+ You can also find my on [CV](/cv/Jianda_bi_s_cv  ENG 202410.pdf)
 
 Education
 ======
