@@ -7,11 +7,22 @@ redirect_from:
   - /about.html
 ---
 
+
+
+
 I am a lecturer at Zhejiang Wanli University. I received my Ph.D. in Finance from the University of Nottingham.
 
 My research interests include the Economics of Innovation of Productivity, the Economics and Econometrics of Networks (especially technology networks), and Corporate Finance. 
 
-<!-- My teaching portfolio is centered in graduate-level Statistics and Econometrics. -->
+
+
+
+
+
+
+
+
+<!-- My teaching portfolio is centered in graduate-level Statistics and Econometrics. 
 
 
 # Selected publications
@@ -20,3 +31,4 @@ My research interests include the Economics of Innovation of Productivity, the E
 I am a lecturer at Zhejiang Wanli University. I received my Ph.D. in Finance from the University of Nottingham.
 
 
+-->
