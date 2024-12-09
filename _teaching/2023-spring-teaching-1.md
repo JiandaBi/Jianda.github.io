@@ -1,12 +1,15 @@
 ---
 title: "Financial Technology (BUSI4606)"
 collection: teaching
-type: "TA for graduate course"
+type: "Graduate course"
 permalink: /teaching/2023-spring-teaching-1
 venue: "The University of Nottingham Ningbo China, Nottingham University Business School China"
 date: 2023-03-01
 location: "Ningbo, China"
 ---
+
+
+Teaching Assistant
 
 
 <!-- 
