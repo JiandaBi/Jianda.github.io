@@ -4,7 +4,7 @@ collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2024-spring-teaching-1
 venue: "The University of Nottingham Ningbo China, School of Economics"
-date: 2014-03-01
+date: 2024-03-01
 location: "Ningbo, China"
 ---
 
