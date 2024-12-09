@@ -17,7 +17,7 @@ redirect_from:
 
 
  
-You can also find my CV [here]({ https://jiandabi.github.io/files/cv.pdf }).
+You can also find my CV [here](https://jiandabi.github.io/files/cv.pdf).
 
 Education
 ======
