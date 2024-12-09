@@ -1,7 +1,7 @@
 ---
 title: "Macroeconomics Theory (EOCN2029)"
 collection: teaching
-type: "Undergraduate course"
+type: "TA for undergraduate course"
 permalink: /teaching/2024-spring-teaching-1
 venue: "The University of Nottingham Ningbo China, School of Economics"
 date: 2014-03-01
