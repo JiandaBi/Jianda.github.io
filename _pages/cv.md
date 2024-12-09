@@ -9,11 +9,13 @@ redirect_from:
 
 
  
-  <div class="wordwrap">You can also find my  on <a href="{files/cv.pdf}">CV</a>.</div>
- 
+
 
 
 {% include base_path %}
+
+  <div class="wordwrap">You can also find my  on <a href="{files/cv.pdf}">CV</a>.</div>
+ 
 
 Education
 ======
