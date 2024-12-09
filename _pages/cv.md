@@ -14,8 +14,7 @@ redirect_from:
 
 {% include base_path %}
 
- You can also find my on {%   [CV](/cv/Jianda_bi_s_cv  ENG 202410.pdf) %}
-{%  You can also find my on [CV](/cv/Jianda_bi_s_cv  ENG 202410.pdf) %}
+
  You can also find my on  CV  {% include /cv/Jianda_bi_s_cv  ENG 202410.pdf %} 
 
 Education
