@@ -30,8 +30,7 @@ Work experience
 
 
 * Fall 2015: Research Assistant
-  * Centre for Inclusive Finance (CIF)
-  * University of Nottingham Ningbo China
+  * Centre for Inclusive Finance (CIF), University of Nottingham Ningbo China
   * Supervisor: Professor Xiuping Hua
 
 Skills
