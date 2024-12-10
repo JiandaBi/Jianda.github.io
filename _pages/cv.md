@@ -29,7 +29,7 @@ Work experience
 ======
 
 
-* Fall 2015: Research Assistant
+* Fall 2018 - Fall 2020: Research Assistant
   * Centre for Inclusive Finance (CIF), University of Nottingham Ningbo China
   * Supervisor: Professor Xiuping Hua
 
