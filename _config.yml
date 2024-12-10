@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Jianda / Home"
+title                    : "Home"
 title_separator          : "-"
 name                     : &name "Jianda"
 description              : &description "personal description"
