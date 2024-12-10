@@ -57,4 +57,5 @@ Teaching
   
 Service and leadership
 ======
-*  Anonymous Referee: China Economic Quarterly International, The Journal of Sustainable Finance & Investment 
+*  Peer Reviewer: China Economic Quarterly International
+*  Journal Referee: The Journal of Sustainable Finance & Investment 
