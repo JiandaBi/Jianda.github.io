@@ -5,9 +5,7 @@ category: manuscripts
 permalink: /publication/2023-10-01-paper-title-number-1
 date: 2023-10-01
 venue: 'Journal 1'
-slidesurl: ''
 paperurl: 'http://jiandabi.github.io/files/季刊2023.pdf'
-
 ---
 
  
