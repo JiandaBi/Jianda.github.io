@@ -5,4 +5,4 @@ date: 2023-10-01
 venue: '经济学（季刊）'
 ---
 
-CSSCI 
+通讯作者， CSSCI 
