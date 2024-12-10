@@ -2,7 +2,7 @@
 title: "创新陷阱对企业生产效率的影响研究"
 collection: publications
 category: manuscripts
-permalink: /publication/2015-10-01-paper-title-number-3
+permalink: 'http://jiandabi.github.io/files/计量经济学报2022.pdf'
 date: 20202
 venue: '计量经济学报'
 ---
